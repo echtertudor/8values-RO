@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Infracțiunile fără victime (cum ar fi consumul de droguri) nu ar trebui să fie deloc infracțiuni.",
+        "question": "Sinuciderea asistată de medic ar trebui să fie legală.",
         "effect": {
             "econ": 0,
             "dipl": 0,
